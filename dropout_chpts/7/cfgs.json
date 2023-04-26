@@ -1,0 +1,15 @@
+{
+  "batch_size": 64,
+  "datapath": "/home/gtzelepis/corner-detection/data/data_painted_towel",
+  "datasize": 11500,
+  "epochs": 250,
+  "gamma": 0.5,
+  "lr": 0.001,
+  "momentum": 0,
+  "n_class": 3,
+  "n_feature": 3,
+  "runspath": "/home/gtzelepis/corner-detection/train_runs_dropout",
+  "step_size": 30,
+  "transform": true,
+  "w_decay": 0
+}
